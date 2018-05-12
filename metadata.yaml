@@ -1,0 +1,26 @@
+_repo: Rizal-sa-Harap-ng-BayanTalumpating-Binigkas-sa-Look-ng-Bagumbayan_18306
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18306-h/images/cover_t.jpg
+creator:
+  author:
+    agent_name: Hipolito, Pilar J. Lazaro
+    gutenberg_agent_id: '7936'
+    url: http://www.gutenberg.org/2009/agents/7936
+description: ''
+gutenberg_issued: '2006-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18306'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Rizal, José, 1861-1896'
+title: 'Rizal sa Harap ng Bayan
+
+  Talumpating Binigkas sa Look ng Bagumbayan'
+url: http://www.gutenberg.org/ebooks/18306
